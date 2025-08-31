@@ -1,1 +1,1 @@
-# rm_electrical_onboarding
+# RoboMaster Electrical Onboarding Project
