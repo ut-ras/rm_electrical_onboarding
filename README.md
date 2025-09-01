@@ -8,6 +8,7 @@ This project will take you through the full PCB design process of a simple buck 
 5. Generating manufacturing files
 
 This is involved and will likely take ~3 hours, but please put some real time and effort in as you will need every skill you develop here.\
+Specifications and guidance for the project are on the [wiki](https://github.com/ut-ras/rm_electrical_onboarding/wiki) for this repo.
 Please ask questions in the Onboarding Discussion thread on the Discord, someone else likely has the same question!
 
 ## Repo Structure
