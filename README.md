@@ -6,11 +6,11 @@ This project will take you through the full PCB design process of a boost conver
    * Defining what the board should do and what problems it needs to solve
 2. Schematic creation:
    * Clearly defining circuits and connections without the clutter of physical implementation
+   * Running DRC to catch definition errors before they break our board layout
 3. Simulation:
    * Simulating the circuits defined in the schematic to verify our intentions
 4. Board Layout & Routing:
    * Determining an optimal arrangement for components and routing connections, the physical implementation
-5. Design Rules Check:
    * Running DRC to verify our implementation is manufacturable and repeating anything in steps 2-4 to resolve issues
 6. File Export:
    * Generating gerber files that manufacturers can use to produce the board design
