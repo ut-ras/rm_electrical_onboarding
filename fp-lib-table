@@ -5,4 +5,5 @@
   (lib (name "RM_Memes")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Memes.pretty")(options "")(descr ""))
   (lib (name "RM_Passives")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Passives.pretty")(options "")(descr ""))
   (lib (name "RM_Special")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Special.pretty")(options "")(descr ""))
+  (lib (name "RM_Example")(type "KiCad")(uri "${KIPRJMOD}/Example_Library")(options "")(descr ""))
 )
