@@ -5,4 +5,5 @@
   (lib (name "RM_CV")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Robomaster_CV.kicad_sym")(options "")(descr ""))
   (lib (name "RM_Conn")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Robomaster_Conn.kicad_sym")(options "")(descr ""))
   (lib (name "RM_Ref")(type "KiCad")(uri "${KIPRJMOD}/KiCad_Library/Robomaster_Ref.kicad_sym")(options "")(descr ""))
+  (lib (name "Inductor Footprint")(type "KiCad")(uri "${KIPRJMOD}/Imported Footprints/CMS1-13-R.kicad_sym")(options "")(descr ""))
 )
