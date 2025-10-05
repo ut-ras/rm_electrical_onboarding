@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRN6045TA-181M
+D Bourns SRN6045TA Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 180 uH +/-20% Semi-Shielded 680mA Idc Q:15
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-12/225111.pdf
+$ENDCMP
+#
+#End Doc Library
