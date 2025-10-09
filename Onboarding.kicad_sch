@@ -4704,7 +4704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Example_Library:SRN6045TA220M"
+		(property "Footprint" "Example_Library:INDM4532X340N"
 			(at 143.51 66.04 0)
 			(effects
 				(font
