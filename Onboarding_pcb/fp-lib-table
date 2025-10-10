@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RM_Example")(type "KiCad")(uri "C:/Users/priya/Downloads/rm_electrical_onboarding/Example_Library")(options "")(descr ""))
+)
