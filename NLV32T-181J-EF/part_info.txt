@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=NLV32T-181J-EF
+PartCategory=Inductor
+PackageCategory=Inductor Moulded
+PinCount=2
+Version=3.1
+Released=2021-06-24 09:33:33
+Downloaded=2025-10-07 03:21:35
+3D=Y

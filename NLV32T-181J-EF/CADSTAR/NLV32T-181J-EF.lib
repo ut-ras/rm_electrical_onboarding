@@ -1,0 +1,16 @@
+.NLV32T-181J-EF :1 ;TDK - NLV32T-181J-EF - High Frequency Inductor, 180 ?H, NLV32-EF Series, 60 mA, 1210 [3225 Metric], Wirewound, 17 ohm
+INDM3225X240N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN NLV32T-181J-EF
+~!Mouser Part Number (810-NLV32T-181J-EF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/NLV32T-181J-EF?qs=u4%252BEJ9urDARpHz3fJZRHLg%3D%3D)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (NLV32T-181J-EF)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_nlv32-ef_en.pdf)
+~!Height (2.4mm)
+~!3D_Model (NLV32T-181J-EF)
+NLV32T-181J-EF
+1.1!U 2.1!U 

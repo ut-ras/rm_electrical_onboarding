@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NLV32T_181J_EF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "NLV32T-181J-EF" (!) = "", "INDM3225X240N", "Inductor Moulded", "810-NLV32T-181J-EF", "https://www.mouser.co.uk/ProductDetail/TDK/NLV32T-181J-EF?qs=u4%252BEJ9urDARpHz3fJZRHLg%3D%3D", "TDK - NLV32T-181J-EF - High Frequency Inductor, 180 ?H, NLV32-EF Series, 60 mA, 1210 [3225 Metric], Wirewound, 17 ohm", "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_nlv32-ef_en.pdf", "2.4 mm"
+END_PART
+
+END.

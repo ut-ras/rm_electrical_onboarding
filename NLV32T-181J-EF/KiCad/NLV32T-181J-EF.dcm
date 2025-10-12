@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NLV32T-181J-EF
+D TDK - NLV32T-181J-EF - High Frequency Inductor, 180 ?H, NLV32-EF Series, 60 mA, 1210 [3225 Metric], Wirewound, 17 ohm
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_nlv32-ef_en.pdf
+$ENDCMP
+#
+#End Doc Library
