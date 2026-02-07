@@ -3742,7 +3742,7 @@
 		(at 156.21 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3765,7 +3765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "1n5859diode:SOD3715X145N"
 			(at 160.655 68.58 0)
 			(effects
 				(font
