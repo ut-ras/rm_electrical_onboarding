@@ -3430,7 +3430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RM_Example:INDM3225X240N"
+		(property "Footprint" "RM_Example:SPT30L174MLD"
 			(at 130.81 68.58 0)
 			(effects
 				(font
@@ -3638,7 +3638,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "RM_Example:SOD3716X145N"
 			(at 160.655 88.9 0)
 			(effects
 				(font
