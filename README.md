@@ -18,3 +18,8 @@ This project will take you through the full PCB design process of a boost conver
 This is an **involved process** and will likely take 3-4 hours, but please put some real time and effort in as you will need every skill you develop here.\
 Get started by seeing [the wiki](https://github.com/ut-ras/rm_electrical_onboarding/wiki) for this repo.\
 **PLEASE** ask questions in the Onboarding Discussion thread on the Discord, someone else likely has the same question!
+
+## Next Steps
+
+TODO: add up-to-date wiring diagram
+Once you're done and are looking to see what you'll be applying your skills to, check out [the problem statement presentation](https://github.com/ut-ras/rm_electrical-supercap_v2/blob/main/UT%20Robomasters%20%E2%80%93%20Supercap%20System%20Overview.pptx) for [supercap](https://github.com/ut-ras/rm_electrical-supercap_v2).
