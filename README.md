@@ -1,4 +1,5 @@
 # RoboMaster Electrical Onboarding Project
+This repository contains the _onboarding project_ for UT RoboMasters. For the full electrical team onboarding process, see [the main repository's wiki page](https://github.com/ut-ras/robomaster_electrical/wiki/New-Members#onboarding). 
 ## Overview
 This project will take you through the full PCB design process of a boost converter circuit alongside a simple data connection standard. The design process is as follows:
 
