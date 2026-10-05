@@ -1,0 +1,18 @@
+Inputs:
+
+12V Power, through XT-30U Female Connector
+CAN Signal, through JST-GH BM02B Connector
+Outputs:
+
+28V Power, through XT-30U Male Connector
+CAN Signal, through JST-GH BM02B Connector
+XT-30 cables are standard to RoboMaster power components, hence their connector usage here
+JST-GH cables are also standard to RoboMaster, for data connections. This includes CAN, UART, and other proprietary standards in DJI's components
+
+Internal Circuits (high-level overview)
+Boost converter, 12V to 28V
+CAN differential pair routing
+Size & Shape:
+Rectangular, 1200mm2 or less, with filleted corners (rounded)
+Often the board size and exact shape is directly constrained by the Mechanical team, here I've kept it simpler
+M2 Screw hole reliefs in board corners
