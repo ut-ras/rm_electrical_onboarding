@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "RM_Example") (type "KiCad") (uri "C:/Users/black/OneDrive/Desktop/KI_CAD/Onboarding/rm_electrical_onboarding/Example_Library") (options "") (descr ""))
+)
